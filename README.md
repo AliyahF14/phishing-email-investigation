@@ -1,4 +1,5 @@
 Phishing Email Threat Investigation & Incident Response
+
 **Overview**
 This project is a simulated cybersecurity investigation involving a suspected phishing email impersonating Microsoft 365 Security.
 
@@ -7,7 +8,7 @@ The investigation demonstrates a structured approach to identifying phishing ind
 >**Disclaimer:** This project is a controlled simulation created for educational and portfolio purposes. No real organization, employee, credentials, or malicious infrastructure were involved.
 
 **Scenario**
-An employee at Northstar Financial Services received an email claiming to be from Microsoft 365 Security.
+An employee at Southstar Financial Services received an email claiming to be from Microsoft 365 Security.
 
 The message warned that the employee’s Microsoft 365 account would be suspended within 24 hours unless they completed an account-verification process through an included link.
 
@@ -36,7 +37,6 @@ Security investigation and incident-response methodology
 **Investigation Process**
 The investigation followed a simplified security-analysis workflow:
 
-'''text
 Identify
    ↓
 Preserve Evidence
@@ -54,7 +54,6 @@ Assess Risk
 Recommend Response
    ↓
 Document Findings
-'''
 
 **Key Findings**
 Several characteristics indicated that the message was suspicious:
