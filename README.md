@@ -1,6 +1,7 @@
 Phishing Email Threat Investigation & Incident Response
 
 **Overview**
+
 This project is a simulated cybersecurity investigation involving a suspected phishing email impersonating Microsoft 365 Security.
 
 The investigation demonstrates a structured approach to identifying phishing indicators, analyzing suspicious email characteristics, performing basic threat-intelligence research, assessing potential risk, and developing incident-response recommendations.
@@ -8,13 +9,15 @@ The investigation demonstrates a structured approach to identifying phishing ind
 >**Disclaimer:** This project is a controlled simulation created for educational and portfolio purposes. No real organization, employee, credentials, or malicious infrastructure were involved.
 
 **Scenario**
-An employee at Southstar Financial Services received an email claiming to be from Microsoft 365 Security.
+
+An employee at Northstar Financial Services received an email claiming to be from Microsoft 365 Security.
 
 The message warned that the employee’s Microsoft 365 account would be suspended within 24 hours unless they completed an account-verification process through an included link.
 
 The objective of the investigation was to determine whether the message represented a phishing attempt and document the appropriate security response.
 
 **Investigation Objectives**
+
 The investigation focused on:
 
 Identifying suspicious characteristics within the email
@@ -35,6 +38,7 @@ Markdown
 Security investigation and incident-response methodology
 
 **Investigation Process**
+
 The investigation followed a simplified security-analysis workflow:
 
 Identify
@@ -56,6 +60,7 @@ Recommend Response
 Document Findings
 
 **Key Findings**
+
 Several characteristics indicated that the message was suspicious:
 
 1. Sender Impersonation
@@ -84,6 +89,7 @@ The URL was designed to resemble a Microsoft security-verification page.
 The /login URL path and account-verification scenario indicate the potential for credential harvesting if the message were part of a real phishing campaign.
 
 **Threat Intelligence Results**
+
 VirusTotal
 The simulated URL was submitted to VirusTotal.
 
@@ -101,6 +107,7 @@ Result: Not available.
 The .example domain used in this simulation is reserved for documentation/testing purposes and does not represent a real production domain.
 
 **Risk Assessment**
+
 Overall Risk: High
 
 If a recipient interacted with a real phishing page and submitted credentials, potential consequences could include:
@@ -123,6 +130,7 @@ Potential risk-reduction controls include:
 - Monitoring for suspicious authentication activity
 
 **Incident Response Recommendations**
+
 Recommended response actions include:
 
 1. Quarantine and remove the phishing message.
@@ -138,6 +146,7 @@ Recommended response actions include:
 11. Document the incident and lessons learned.
 
 **Indicators of Compromise**
+
 Type
 
 Indicator
@@ -181,6 +190,7 @@ Account verification request
 Potential credential theft
 
 **Skills Demonstrated**
+
 - Cybersecurity
 - Phishing analysis
 - Social-engineering analysis
@@ -205,6 +215,7 @@ Professional
 - Analytical reasoning
   
   **Project Structure**
+  
 phishing-email-investigation/
 │
 ├── README.md
@@ -221,6 +232,7 @@ phishing-email-investigation/
 └── conclusion.md
 
 **Conclusion**
+
 The investigation determined that the simulated email displayed multiple characteristics consistent with a phishing attempt, including brand impersonation, urgency, fear-based messaging, a suspicious sender domain, and an external account-verification URL.
 
 The investigation also demonstrated the importance of evaluating multiple sources of evidence rather than relying on a single threat-intelligence result.
