@@ -1,0 +1,16 @@
+From: Microsoft 365 Security <security@microsoft-365support.com>
+To: James Wilson <james.wilson@southstarfinance.example>
+Date: August 26, 2026 
+Subject: URGENT: Your Microsoft 365 account will be suspended
+
+Hello James,
+
+We detected unusual activity on your Microsoft 365 account.
+
+Your account is scheduled for suspension within 24 hours unless you complete the required security verification. 
+
+Please verify your account immediately using the secure verification link below:
+https://microsoft365-security-verification.example/login
+Failure to verify your account may result in loss of access to your email, files, and Microsoft 365 services.
+
+Microsoft 365 Security Team
