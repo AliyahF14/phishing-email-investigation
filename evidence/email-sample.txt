@@ -1,9 +1,9 @@
 From: Microsoft 365 Security <security@microsoft-365support.com>
-To: James Wilson <james.wilson@southstarfinance.example>
+To: Jordon Williams <jordan.williams@northstarfinance.example>
 Date: August 26, 2026 
 Subject: URGENT: Your Microsoft 365 account will be suspended
 
-Hello James,
+Hello Jordan,
 
 We detected unusual activity on your Microsoft 365 account.
 
